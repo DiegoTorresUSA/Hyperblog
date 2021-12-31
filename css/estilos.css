@@ -3,3 +3,10 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     color: aqua;
 }
+
+#parrafo{
+    text-align: center;
+    color: blueviolet;
+    width: 75%;
+    border: brown solid;
+}
