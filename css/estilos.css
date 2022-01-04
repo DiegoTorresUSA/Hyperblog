@@ -8,8 +8,8 @@ body{
 }
 
 #Container{
-    background-color: #33a;
-    font-family: Arial, Helvetica, sans-serif;
+    background-color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
     width: 70%;
     margin: 0 auto;
     padding: 0 auto;
